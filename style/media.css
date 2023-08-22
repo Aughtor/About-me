@@ -1,0 +1,171 @@
+@media (max-width: 1200px) {
+    .about__inner {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .about__inner_right-tittle {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .works__cards {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 992px) {
+    .about__inner {
+        flex-direction: column;
+        gap: 40px;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .nav {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .header__content_title {
+        text-align: center;
+    }
+
+    .works__cards {
+        justify-content: center;
+    }
+
+    .about__inner {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .link a {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 576px) {
+    .nav {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .header__content_title {
+        text-align: center;
+    }
+
+    .works__cards {
+        justify-content: center;
+    }
+
+    .about__inner {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .link a {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 375px) {
+
+    .nav {
+        flex-direction: column;
+        gap: 20px;
+        padding: 35px 20px;
+    }
+
+    .about__inner img {
+        width: 100%;
+    }
+
+    .works__cards {
+        justify-content: center;
+    }
+
+    .about__inner {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+
+    .list{
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .link a{
+        padding: 15px;
+    }
+
+
+    .header__content_title {
+        text-align: center;
+    }
+
+    .about__inner_right-tittle {
+        text-align: center;
+    }
+
+    .about__inner_right-text {
+        padding: 0 20px;
+    }
+
+    .header__content {
+        gap: 50px;
+    }
+
+}
+
+@media (max-width: 320px) {
+    .nav {
+        flex-direction: column;
+        gap: 20px;
+        padding: 35px 20px;
+    }
+
+    .about__inner img {
+        width: 100%;
+    }
+
+    .works__cards {
+        justify-content: center;
+    }
+
+    .about__inner {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+
+    .list{
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .link a{
+        padding: 15px;
+    }
+
+
+    .header__content_title {
+        text-align: center;
+    }
+
+    .about__inner_right-tittle {
+        text-align: center;
+    }
+
+    .about__inner_right-text {
+        padding: 0 20px;
+    }
+
+    .header__content {
+        gap: 50px;
+    }
+}
